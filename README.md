@@ -95,4 +95,4 @@ This Weather API Client project showcases the ability to consume public REST API
 
 OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/22f0c13a-e840-4175-871b-b07551c38883)
+![Image](https://github.com/user-attachments/assets/d9367356-5c35-4974-aea6-8429101908df)
