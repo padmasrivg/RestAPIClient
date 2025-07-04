@@ -92,3 +92,7 @@ Integrating additional APIs like OpenWeatherMap or WeatherAPI
  Conclusion:
  
 This Weather API Client project showcases the ability to consume public REST APIs, parse real-time data, and present it in a user-friendly format using Java. Built with IntelliJ IDEA and open-source libraries, it is a robust foundation for more complex weather-related applications or as a stepping stone into real-world API development.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/22f0c13a-e840-4175-871b-b07551c38883)
